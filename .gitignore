@@ -1,0 +1,6 @@
+*.pem
+*.key
+.env
+.env.*
+**/credentials
+**/config.json
